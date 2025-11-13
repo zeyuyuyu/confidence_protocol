@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Experiment results (optional - remove these lines if you want to include results)
+experiment_results.json
+single_experiment_result.json
+
+# API Keys (if any are stored separately)
+.env
+*.key
+
